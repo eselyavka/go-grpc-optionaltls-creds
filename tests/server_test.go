@@ -12,7 +12,7 @@ import (
 	"google.golang.org/grpc/credentials"
 	pb "google.golang.org/grpc/examples/helloworld/helloworld"
 
-	"github.com/noxiouz/go-grpc-optionaltls-creds/optionaltls"
+	"github.com/eselyavka/go-grpc-optionaltls-creds/optionaltls"
 )
 
 // server is used to implement helloworld.GreeterServer.
