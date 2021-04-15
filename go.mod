@@ -1,4 +1,4 @@
-module github.com/noxiouz/go-grpc-optionaltls-creds
+module github.com/eseliavka/go-grpc-optionaltls-creds
 
 go 1.16
 
